@@ -70,3 +70,5 @@
 #### Github Stats
 ![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=lorthbroth&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorthbroth&layout=compact)](https://github.com/lorthbroth/github-readme-stats)
+
