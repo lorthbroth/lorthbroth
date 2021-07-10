@@ -1,3 +1,7 @@
+[![Updated Badge](https://badges.pufler.dev/updated/lorthbroth/git-badges)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/lorthbroth/git-badges)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/weekly/lorthbroth)](https://badges.pufler.dev)
+
 ### 🇿🇦 Hi there 👋
 
 :mailbox: How to reach me!
