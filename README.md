@@ -1,7 +1,7 @@
 ### Hi there 👋
+### 🇿🇦
 
-
-:mailbox: Reach me out!
+:mailbox: How to reach me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@101Dominic-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/101Dominic)](https://twitter.com/101Dominic) [![Linkedin Badge](https://img.shields.io/badge/dominic-kgoete-0211318a?style=flat&labelColor=0211318a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-kgoete-0211318a/) [![Mail Badge](https://img.shields.io/badge/-@_domi_02-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_domi_02/) [![Mail Badge](https://img.shields.io/badge/-dkgoete-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dkgoete@gmail.com)
 
@@ -33,8 +33,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lorthbroth.lorthbroth)
 
-#### Github Stats
+#### Github Stats :rocket:
+[![Years Badge](https://badges.pufler.dev/years/lortthbroth)](https://badges.pufler.dev)
 ![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=lorthbroth&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+[![Repos Badge](https://badges.pufler.dev/repos/lorthbroth)](https://badges.pufler.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorthbroth&layout=compact)](https://github.com/lorthbroth/github-readme-stats)
 
