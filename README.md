@@ -1,4 +1,4 @@
-### 🇿🇦 ### Hi there 👋
+### 🇿🇦 Hi there 👋
 
 :mailbox: How to reach me!
 
@@ -28,13 +28,14 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 
-#### Profile Visits
+#### Profile stats
 
+[![Years Badge](https://badges.pufler.dev/years/lorthbroth)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lorthbroth.lorthbroth)
-[![Years Badge](https://badges.pufler.dev/years/lortthbroth)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/lorthbroth)](https://badges.pufler.dev)
 
 #### Github Stats :rocket:
 ![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=lorthbroth&count_private=true&theme=tokyonight&hide=contribs,prs)
-[![Repos Badge](https://badges.pufler.dev/repos/lorthbroth)](https://badges.pufler.dev)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorthbroth&layout=compact)](https://github.com/lorthbroth/github-readme-stats)
 
