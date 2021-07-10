@@ -1,5 +1,4 @@
-### Hi there 👋
-### 🇿🇦
+### 🇿🇦 ### Hi there 👋
 
 :mailbox: How to reach me!
 
@@ -32,9 +31,9 @@
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lorthbroth.lorthbroth)
+[![Years Badge](https://badges.pufler.dev/years/lortthbroth)](https://badges.pufler.dev)
 
 #### Github Stats :rocket:
-[![Years Badge](https://badges.pufler.dev/years/lortthbroth)](https://badges.pufler.dev)
 ![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=lorthbroth&count_private=true&theme=tokyonight&hide=contribs,prs)
 [![Repos Badge](https://badges.pufler.dev/repos/lorthbroth)](https://badges.pufler.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorthbroth&layout=compact)](https://github.com/lorthbroth/github-readme-stats)
